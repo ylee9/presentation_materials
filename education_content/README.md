@@ -6,6 +6,6 @@ It includes some of the original work I developed for the third-year undergradua
 While the materials shared here are incomplete, we are very happy to share the materials used in this subject. If you are interested in using any of these materials and/or would like to learn more about other materials available in this subject, please get in touch (email - christine.yishuen@unimelb.edu.au).
 
 It also includes some of the materials I developed for educational workshops/seminars:
-1. Introduction to Bayesian Inference seminar at the 2023 OzGrav Retreat (OzGrav2023_BayesianInference.pdf)
+1. Introduction to Bayesian Inference seminar (OzGrav2023_BayesianInference.pdf)
 2. Academic poster design workshop (PosterDesign_SLIDES.pdf, PosterDesign_SUMMARY.pdf)
 
