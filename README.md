@@ -1,1 +1,1 @@
-GitHub preview is limimted and may also mess up the document formatting. For best viewing, please download the file and open it locally.
+GitHub preview is limited and may also mess up the document formatting. For best viewing, please download the file and open it locally.
